@@ -1,8 +1,8 @@
 # angular-lightbox-directive
 
-#Usage
+# Usage
 ```
-##Add this style to style.css
+## Add this style to style.css
 .image-lightbox {
   position: fixed;
   top: 0;
@@ -28,7 +28,7 @@
 }
 ```
 ```
-##Modal appear animation
+## Modal appear animation
 @keyframes modal-appear {
   0% {
     opacity: 0;
@@ -42,7 +42,7 @@
 }
 ```
 
-##In template
+## In template
 ```
 <img src="image" alt="No Image" lightBox />
 ```
