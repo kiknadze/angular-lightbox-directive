@@ -1,7 +1,7 @@
 # angular-lightbox-directive
 
 // usage
-
+```
 add this style to style.css
 .image-lightbox {
   position: fixed;
@@ -26,7 +26,7 @@ add this style to style.css
     cursor: pointer;
   }
 }
-
+```
 // modal appear animation
 @keyframes modal-appear {
   0% {
